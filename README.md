@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Ujwal Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
