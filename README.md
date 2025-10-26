@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSWA_lJwFrCHwwWSlJgNbK3FEa5z-iTR/view?usp=sharing)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderujwal3" alt="coderujwal3" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderujwal3" alt="coderujwal3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
