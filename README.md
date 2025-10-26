@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I think I am like a potato, adjustable and make every group better by joining it. As potato is fit in each curry.**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderujwal3" alt="coderujwal3" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujwal-singh-930034266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal-singh-930034266" height="30" width="40" /></a>
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderujwal3&show_icons=true&locale=en&layout=compact" alt="coderujwal3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderujwal3&show_icons=true&locale=en" alt="coderujwal3" /></p>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DSWA_lJwFrCHwwWSlJgNbK3FEa5z-iTR/view?usp=sharing](https://drive.google.com/file/d/1DSWA_lJwFrCHwwWSlJgNbK3FEa5z-iTR/view?usp=sharing)
