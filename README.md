@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ujwal Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderujwal3&label=Profile%20views&color=0e75b6&style=flat" alt="coderujwal3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderujwal3&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="coderujwal3" /> </p>
 
 - 🌱 I’m currently learning **DSA with Java language**
 
