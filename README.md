@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderujwal3&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="coderujwal3" /> </p>
 
-- 🌱 I’m currently learning **DSA with Java language**
+- 🌱 I’m currently learning **Machine Learning in depth**
 
 - 💬 Ask me about **Web Development , MERN**
-- 
+
 - 💬 Currently Working on project: **Dhoomchhalle (धूमछल्ले) - A travell Companion WebApp** (visit Dhoomchhalle repo. for more details, you can view hosted site also)
 
 - 📫 How to reach me **coderujwal@gmail.com**
