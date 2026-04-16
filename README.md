@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am like a potato, adjustable and make every group better by joining it. As potato is fit in each curry.**
 
-<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QrJTTW3rCBnl-Jdweht2m100NP5xqNoT/view?usp=sharing) -->
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iUgiXHi2X4ychrqbCJnVhkGkh1kMRKu7/view?usp=drivesdk)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderujwal3" alt="coderujwal3" /></a> </p>
 
