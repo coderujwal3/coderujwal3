@@ -1,7 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Ujwal Singh</h1>
-
-## A passionate Full Stack Web developer + Cyber Security Enthusiast + ML Engineer from India
+<h2 align="center"><strong>Full Stack Web developer + Cyber Security Enthusiast + ML Engineer</strong></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderujwal3&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="coderujwal3" /> </p>
 
