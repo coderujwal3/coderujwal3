@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I think I am like a potato, adjustable and make every group better by joining it. As potato is fit in each curry.**
 
-- 📄 Know about my experiences: [ [Full Stack Resume](https://drive.google.com/file/d/1iUgiXHi2X4ychrqbCJnVhkGkh1kMRKu7/view?usp=drivesdk) ] - [ [AIML Resume](https://drive.google.com/file/d/10qnh0UBIbAH5XKI64nVY-SnZ9ItKfqwx/view?usp=drive_link) ]
-
+- 📄 Know about my experiences: [ [Full Stack Resume](https://drive.google.com/file/d/1aAt4ny6V9AEjTxI-LEPm9N6PP6PVlt6N/view?usp=drive_link) ] - [ [AIML Resume](https://drive.google.com/file/d/10qnh0UBIbAH5XKI64nVY-SnZ9ItKfqwx/view?usp=drive_link) ]
+- 
 <!-- ## Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=coderujwal3)
 
