@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
+[![MasterHead](https://github.com/user-attachments/assets/d11f3d84-4d46-46f1-a16b-d9a84fa64f0c)
+
 <h1 align="center">Hi 👋, I'm Ujwal Singh</h1>
 <h2 align="center"><strong>Full Stack Web developer + Cyber Security Enthusiast + ML Engineer</strong></h2>
 
@@ -15,7 +16,7 @@
 - ⚡ Fun fact **I think I am like a potato, adjustable and make every group better by joining it. As potato is fit in each curry.**
 
 - 📄 Know about my experiences: [ [Full Stack Resume](https://drive.google.com/file/d/1aAt4ny6V9AEjTxI-LEPm9N6PP6PVlt6N/view?usp=drive_link) ] - [ [AIML Resume](https://drive.google.com/file/d/10qnh0UBIbAH5XKI64nVY-SnZ9ItKfqwx/view?usp=drive_link) ]
-- 
+
 <!-- ## Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=coderujwal3)
 
